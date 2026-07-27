@@ -1,5 +1,3 @@
-# Email-and-Phishing-Analysis
-
 # Introduction to Phishing Analysis
 
 **Objective:**
